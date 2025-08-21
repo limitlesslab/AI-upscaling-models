@@ -3,7 +3,7 @@ This repository contains a suite of my high-performance AI models for photoreali
 
 
 
-22.08.2025: PureVision 1.0
+22.08.2025: **PureVision 1.0**
 
 [**1x_PureVision**](https://github.com/daredevilstudio/AI-upscaling-models/releases/download/PureVision/1x_PureVision.pth) - this restoration model is based on ESRGAN (pixel-unshuffle) architecture, trained to remove various types of compression artifacts: JPEG, WEBP, AVC (H.264), HEVC (H.265) and MPEG-2 and restore missing textures. The model also handles moderate noise and grain. The goal of the model is to make your degraded images exceptionally clear and artifact-free. It is also suitable for restoring videos as a preparatory step before upscaling. 
 
