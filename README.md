@@ -1,7 +1,11 @@
 # Advanced AI Upscaling & Restoration Models
-This repository contains a suite of my high-performance AI models for photorealistic upscaling and restoration. Each model, built on architectures including [SwinIR](https://github.com/JingyunLiang/SwinIR), [ESRGAN](https://github.com/xinntao/Real-ESRGAN), [RealPLKSR](https://github.com/dslisleedh/PLKSR) and others, has been trained on my own dataset: a library of over 11,000 hand-selected and versatile real-world HD images of exceptional quality and information density. The result of this several months-long dataset curation effort is a set of models that excel at rendering authentic textures and objects (skin, fabric, grit, foliage, etc.) and intelligently handling a wide variety of image degradations. Both the dataset and models are under continuous development, with future releases targeting higher fidelity and generalization.
+This repository contains a suite of my high-performance AI models for photorealistic upscaling and restoration. Each model, built on architectures including [SwinIR](https://github.com/JingyunLiang/SwinIR), [ESRGAN](https://github.com/xinntao/Real-ESRGAN), [RealPLKSR](https://github.com/dslisleedh/PLKSR) and others, has been trained on my own dataset: a library of 11,500 hand-selected and versatile real-world HD images of exceptional quality and information density. The result of this several months-long dataset curation effort is a set of models that excel at rendering authentic textures and objects (skin, fabric, grit, foliage, etc.) and intelligently handling a wide variety of image degradations. Both the dataset and models are under continuous development, with future releases targeting higher fidelity and generalization.
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+27.09.2025 **PureScale 1.0**
+
+[**2x_PureScale**](https://github.com/limitlesslab/AI-upscaling-models/releases/tag/PureScale) - an upscaling model based on RealPLKSR (pixelshuffle) architecture that is designed for high-fidelity upscales of your real-world images. With regard to degradations, it only handles slight JPEG compression. The result is sharp, high-quality outputs that stay true to the original image. FP16 ONNX model is also attached for usage with NVIDIA TensorRT.
 
 22.08.2025: **PureVision 1.0**
 
