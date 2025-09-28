@@ -5,7 +5,7 @@ This repository contains a suite of my high-performance AI models for photoreali
 
 27.09.2025: **PureScale 1.0**
 
-[**2x_PureScale**](https://github.com/limitlesslab/AI-upscaling-models/releases/tag/PureScale) - an upscaling model based on [RealPLKSR](https://github.com/dslisleedh/PLKSR/issues/4) (PixelShuffle) architecture that is designed for high-fidelity upscales of your real-world images. With regard to degradations, it only handles slight JPEG compression. The result is sharp, high-quality outputs that stay true to the original image. FP16 ONNX model is also attached for usage with NVIDIA TensorRT.
+[**2x_PureScale**](https://github.com/limitlesslab/AI-upscaling-models/releases/tag/PureScale) - an upscaling model based on [RealPLKSR](https://github.com/dslisleedh/PLKSR/issues/4) (PixelShuffle) architecture designed for high-fidelity upscales of your real-world images. With regard to degradations, it only handles slight JPEG compression. The result is sharp, high-quality outputs that stay true to the original image. FP16 ONNX model is also attached for usage with NVIDIA TensorRT.
 
 22.08.2025: **PureVision 1.0**
 
