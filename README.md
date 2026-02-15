@@ -7,7 +7,7 @@ This repository contains a suite of my high-performance AI models for photoreali
 
 ---
 
-Software Development in Progress
+**Software Development in Progress (see above)**
 
 27.09.2025: **PureScale 1.0**
 
