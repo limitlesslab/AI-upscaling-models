@@ -3,7 +3,7 @@ This repository contains a suite of my high-performance AI models for photoreali
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-15.02.2026 High-End Video Restoration & Upscaling Software in Development. Topaz... I'm coming for you.
+**15.02.2026 High-End Video Restoration & Upscaling Software in Development. Topaz... I'm coming for you.**
 
 27.09.2025: **PureScale 1.0**
 
