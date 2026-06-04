@@ -9,7 +9,7 @@ This repository contains a suite of my high-performance AI models for photoreali
 
 ---
 
-5.06.2026: **PureScale 2.0 SAFMN**
+5.06.2026: **PureScale 2.0**
 
 These are high-quality upscale models based on exceptionally strong but still lightweight architecture - [SAFMN](https://github.com/sunny2109/SAFMN)
 
@@ -27,7 +27,7 @@ To use these models with Chainner you must replace the default SAFMN architectur
 
 ---
 
-27.09.2025: **PureScale 1.0 RealPLKSR**
+27.09.2025: **PureScale 1.0**
 
 [**2x_RealPLKSR_PureScale**](https://github.com/limitlesslab/AI-upscaling-models/releases/tag/PureScale) - an upscaling GAN model based on [RealPLKSR](https://github.com/dslisleedh/PLKSR/issues/4) (PixelShuffle) architecture designed for high-fidelity upscales of your real-world images (or videos). With regard to degradations, it only handles slight JPEG compression. The result is sharp, high-quality outputs that stay true to the original image. FP16 ONNX model is also attached for usage with NVIDIA TensorRT.
 
