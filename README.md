@@ -5,7 +5,7 @@ This repository contains a suite of my high-performance AI models for photoreali
 
 **Software Development in Progress**
 
-**15.02.2026 High-End Video Restoration & Upscaling Software in Development. Topaz -- I'm coming for you.**
+**High-End Video Restoration & Upscaling Software in Development. Topaz -- I'm coming for you.**
 
 ---
 
