@@ -19,7 +19,7 @@ To use these models with Chainner you must replace the default SAFMN architectur
 
 [**2x_SAFMN_PureScale**](https://github.com/limitlesslab/AI-upscaling-models/releases/download/PureScale2/2x_SAFMN_PureScale.pth) - model for high-fidelity upscaling, handles JPEG compression
 
-[**2x_SAFMN_PureScale_sharper**](https://github.com/limitlesslab/AI-upscaling-models/releases/download/PureScale2/2x_SAFMN_PureScale_sharper.pth) - a model for high-quality upscaling with a deblurring component, handles JPEG compression 
+[**2x_SAFMN_PureScale_sharper**](https://github.com/limitlesslab/AI-upscaling-models/releases/download/PureScale2/2x_SAFMN_PureScale_sharper.pth) - a model for high-quality upscaling with a deblurring component, removes JPEG compression too 
 
 [**4x_SAFMN_PureScale**](https://github.com/limitlesslab/AI-upscaling-models/releases/download/PureScale2/4x_SAFMN_PureScale.pth) - the ultimate model for high-fidelity upscaling; handles JPEG compression as well
 
