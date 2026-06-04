@@ -17,11 +17,11 @@ The architecture file was modified by me to prevent the [artifacts](https://gith
 
 To use these models with Chainner you must replace the default SAFMN architecture file with the attached one (safmn.py). Assuming you're using a portable Chainner installation, the directory of the SAFMN architecture is here: C:\chaiNNer\python\python\Lib\site-packages\spandrel\architectures\SAFMN\__arch
 
-[**2x_SAFMN_PureScale**](https://github.com/limitlesslab/AI-upscaling-models/releases/download/PureScale2/2x_SAFMN_PureScale.pth) - a model for high-fidelity upscaling, handles JPEG compression
+[**2x_SAFMN_PureScale**](https://github.com/limitlesslab/AI-upscaling-models/releases/download/PureScale2/2x_SAFMN_PureScale.pth) - a GAN model for high-fidelity upscaling of real-world images, handles JPEG compression
 
-[**2x_SAFMN_PureScale_sharper**](https://github.com/limitlesslab/AI-upscaling-models/releases/download/PureScale2/2x_SAFMN_PureScale_sharper.pth) - a model for high-quality upscaling with a deblurring component, removes JPEG compression too 
+[**2x_SAFMN_PureScale_sharper**](https://github.com/limitlesslab/AI-upscaling-models/releases/download/PureScale2/2x_SAFMN_PureScale_sharper.pth) - a GAN model for high-quality upscaling of real-world images with a deblurring component, removes JPEG compression too 
 
-[**4x_SAFMN_PureScale**](https://github.com/limitlesslab/AI-upscaling-models/releases/download/PureScale2/4x_SAFMN_PureScale.pth) - the ultimate model for high-fidelity 4x upscaling; handles JPEG compression as well
+[**4x_SAFMN_PureScale**](https://github.com/limitlesslab/AI-upscaling-models/releases/download/PureScale2/4x_SAFMN_PureScale.pth) - the ultimate GAN model for high-fidelity 4x upscaling of real-world images; handles JPEG compression as well
 
 [**safmn.py**](https://github.com/limitlesslab/AI-upscaling-models/releases/download/PureScale2/safmn.py) - modified architecture file to use these models with Chainner
 
