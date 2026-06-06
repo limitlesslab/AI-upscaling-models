@@ -23,7 +23,7 @@ To use these models with Chainner you must replace the default SAFMN architectur
 
 [**4x_SAFMN_PureScale**](https://github.com/limitlesslab/AI-upscaling-models/releases/download/PureScale2/4x_SAFMN_PureScale.pth) - the ultimate GAN model for high-fidelity 4x upscaling of real-world images; handles JPEG compression as well
 
-[**safmn.py**](https://github.com/limitlesslab/AI-upscaling-models/releases/download/PureScale2/safmn.py) - modified architecture file to use these models with Chainner
+[**safmn.py**](https://github.com/limitlesslab/AI-upscaling-models/releases/download/PureScale2/safmn.py) - modified architecture file to use these models with Chainner or ComfyUI
 
 ---
 
