@@ -15,7 +15,9 @@ These are high-quality upscale models based on exceptionally strong but still li
 
 The architecture file was modified by me to prevent the [artifacts](https://github.com/sunny2109/SAFMN/issues/48) that are present in the default architecture from the original paper.
 
-To use these models with Chainner you must replace the default SAFMN architecture file with the attached one (safmn.py). Assuming you're using a portable Chainner installation, the directory of the SAFMN architecture is here: C:\chaiNNer\python\python\Lib\site-packages\spandrel\architectures\SAFMN\__arch
+To use these models with Chainner you must replace the default SAFMN architecture file with the attached one (safmn.py). 
+
+Assuming you're using a portable Chainner installation, the directory of the SAFMN architecture is here: C:\chaiNNer\python\python\Lib\site-packages\spandrel\architectures\SAFMN\__arch
 
 [**2x_SAFMN_PureScale**](https://github.com/limitlesslab/AI-upscaling-models/releases/download/PureScale2/2x_SAFMN_PureScale.pth) - GAN model for high-fidelity upscaling of real-world images, handles JPEG compression
 
