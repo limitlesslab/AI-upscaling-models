@@ -27,7 +27,7 @@ Assuming you're using a portable Chainner installation, the directory of the SAF
 
 [**safmn.py**](https://github.com/limitlesslab/AI-upscaling-models/releases/download/PureScale2/safmn.py) - modified architecture file to use these models with Chainner or ComfyUI
 
-ONNX models are available as well.
+ONNX models are [available](https://github.com/limitlesslab/AI-upscaling-models/releases/tag/PureScale2) as well.
 
 ---
 
